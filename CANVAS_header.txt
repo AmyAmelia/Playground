@@ -1,0 +1,1 @@
+BRIDGE_ID	CANVAS_CHROM	CANVAS_START	CANVAS_END	CANVAS_GT	REF	ALT	CANVAS_QUAL	TYPE_OR_CN	ILMN_ID	PROJECT	InferredSex	ensembl_gene_IDs	external_gene_IDs	Gene_database	Gene_biotype	overlap_ctrl	overlap_internal	overlap_PAR	MANTAorCANVAS

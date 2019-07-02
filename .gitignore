@@ -2,3 +2,4 @@
 Input_files/
 .idea
 *.sqlite
+venv/
